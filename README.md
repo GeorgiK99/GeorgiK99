@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgiK99
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning  c++,unity and blender.
+- 🌱 I’m currently learning  c++,c#,unity and blender.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me georgikolev9999@gmail.com
 

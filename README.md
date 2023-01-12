@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Georgi Kolev 
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning  c++,c#,unity and blender.
+- 🌱 I’m currently learning  c++,c# and unity.
 - 📫 How to reach me georgikolev9999@gmail.com
 
 <!---
